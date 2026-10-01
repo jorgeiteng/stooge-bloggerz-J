@@ -1,5 +1,5 @@
 > 🎓 **Course work — DevMountain, Full-Stack Web Development**
-> **Term:** January – February 2014 · **Assignment:** `stooge-bloggerz-J`
+> **Term:** January – May 2014 · **Assignment:** `stooge-bloggerz-J`
 >
 > **Stack:** AngularJS · Yeoman · Grunt · Bower · Karma/Jasmine
 >
